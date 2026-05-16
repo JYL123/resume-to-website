@@ -1,0 +1,13 @@
+{
+  "name": "resume-to-website",
+  "version": "1.0.0",
+  "description": "Converts a resume (PDF, DOCX, or plain text) into a stunning, personalized, deployable single-page HTML portfolio website. Trigger this skill whenever the user mentions: uploading a resume, converting a CV to a website, building a personal portfolio from their resume, making a personal site to share with recruiters, or any phrasing like 'turn my resume into a website', 'make a portfolio site from my CV', 'create a personal page from my resume'. Also trigger when the user uploads a file that appears to be a resume/CV and asks to do something web-related with it. The output is a single self-contained HTML file that can be deployed for free on GitHub Pages, Netlify, or Vercel with zero additional setup.",
+  "author": {
+    "name": "JiaYao Li",
+    "url": "https://github.com/JYL123/resume-to-website-skill"
+  },
+  "homepage": "https://github.com/zarazhangrui/frontend-slides",
+  "repository": "https://github.com/zarazhangrui/frontend-slides",
+  "license": "MIT",
+  "keywords": ["presentations", "slides", "html", "design", "powerpoint", "animations"]
+}
