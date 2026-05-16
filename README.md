@@ -1,3 +1,5 @@
+
+
 # resume-to-website
 
 **A Claude skill that turns your resume into a unique, deployable portfolio website — in one conversation.**
@@ -9,6 +11,8 @@ Upload your resume. Get back a beautiful, self-contained HTML file you can deplo
 ## 🌐 Live Demo
 
 https://sample-resume-website.vercel.app/
+
+https://github.com/user-attachments/assets/21a6beaf-bbba-4bfe-bfa5-253ac01feac2
 
 ---
 
