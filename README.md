@@ -129,5 +129,3 @@ Every future edit to `index.html` on GitHub triggers an automatic redeploy.
 ## Contributing
 
 Found an aesthetic direction that's missing? A resume format that doesn't parse well? Open an issue or submit a pull request to `SKILL.md`. The skill is plain Markdown — readable and editable by anyone.
-
----
