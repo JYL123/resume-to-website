@@ -60,7 +60,7 @@ Two software engineers will get two completely different sites.
 3. Toggle **Code execution and file creation** → ON
 
 ### Install the skill
-1. Download **`resume-to-website-v2.skill`** from this repository
+1. **[Download `resume-to-website-v2.skill`](https://github.com/JYL123/resume-to-website/releases/download/v2.0.0/resume-to-website-v2.skill)** from the latest release
 2. In Claude, go to **Settings → Features → Skills**
 3. Click the **+** button and upload the `.skill` file
 4. Toggle the skill **ON**

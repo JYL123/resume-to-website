@@ -4,7 +4,7 @@
   "description": "Converts any resume (PDF, DOCX, or plain text) into a stunning, personalised, deployable single-page HTML portfolio website. Every output is uniquely designed — never templated.",
   "owner": {
     "name": "JiaYao Li",
-    "url": "https://github.com/JYL123/resume-to-website-skill"
+    "url": "https://github.com/JYL123/resume-to-website"
   },
   "license": "MIT",
   "plugins": [
